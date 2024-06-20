@@ -1,0 +1,30 @@
+/* src/components/Business.module.css */
+
+.business {
+    margin-bottom: 20px;
+    padding: 20px;
+    border: 1px solid #ccc;
+    border-radius: 5px;
+    background-color: #fff;
+}
+
+.imageContainer {
+    float: left;
+    margin-right: 20px;
+}
+
+.businessInformation {
+    overflow: hidden;
+}
+
+.businessAddress {
+    margin-bottom: 10px;
+}
+
+.businessReviews {
+    text-align: right;
+}
+
+.rating {
+    color: #f8e825; /* Example color for ratings */
+}

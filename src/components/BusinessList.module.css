@@ -1,0 +1,6 @@
+/* src/components/BusinessList.module.css */
+.businessList {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
